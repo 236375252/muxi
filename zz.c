@@ -10,6 +10,7 @@ int main()
 	printf("%d\n",*p1);
 	printf("%d\n",num);
 	printf("%d\n",*p2);
+	printf("%d\n",sizeof(p1));
 	return 0;
 }
 
