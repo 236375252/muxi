@@ -9,5 +9,4 @@ int main()
     printf("%0x %0x\n",*p1,*p2);
     p1++; p2++;
     printf("%0x %0x\n",*p1,*p2);
-    return 0;
 }
